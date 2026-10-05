@@ -14,6 +14,9 @@ A full-stack accommodation rental platform inspired by Airbnb, built with Node.j
   <img src="https://github.com/user-attachments/assets/9a911d14-25fc-416c-a6b1-c5cbe8c4aa64" width="49%" />
 </p>
 
+##Live Demo
+https://wayheaven.onrender.com/
+
 ## Features
 
 - User registration, login and logout
