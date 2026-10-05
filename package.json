@@ -2,16 +2,24 @@
   "engines": {
     "node": "v24.18.0"
   },
-  "name": "airbnb-project",
+  "name": "wayheaven",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Full-stack accommodation rental platform inspired by Airbnb",
+  "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node app.js",
+    "dev": "node --watch app.js",
+    "test": "echo \"No tests specified\""
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": [
+    "nodejs",
+    "express",
+    "mongodb",
+    "ejs",
+    "airbnb-clone"
+  ],
+  "author": "Lakshya Jaiswal",
+  "license": "MIT",
   "type": "commonjs",
   "dependencies": {
     "@mapbox/mapbox-sdk": "^0.16.2",
